@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="act_main_choose">ESCOGE TU HEROE</string>
+    <string name="act_main_welcome">BIENVENIDO A MARVEL HEROES</string>
+    <string name="act_details_real_name">Nombre real:</string>
+    <string name="act_details_height">Altura</string>
+    <string name="act_details_groups">Equipos</string>
+    <string name="act_details_abilities">Destrezas/Labores</string>
+    <string name="act_details_power">Poderes</string>
+</resources>
